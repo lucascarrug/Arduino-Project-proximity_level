@@ -6,7 +6,7 @@ It's a tiny project where I use a LED bar and an ultrasonic sensor. The sensor r
 
 If the object is too far, the LEDs aren't going to be set, but as the object approaches, more and more LEDs light up.
 
-## Test
+### Test
 
 <img src="https://github.com/lucascarrug/Arduino-Project-proximity_level/blob/main/captures/test.gif" width="500" height="300">
 
